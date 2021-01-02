@@ -2,7 +2,7 @@
 
 - 🔭 I like computers and offensive security.
 - 🌱 I’m currently learning Red Teaming and Exploit Development 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
